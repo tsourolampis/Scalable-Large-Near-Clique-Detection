@@ -1,3 +1,9 @@
+1) Count k cliques using mace http://research.nii.ac.jp/~uno/code/mace.html 
+2) Input the resulting output file from mace (one line for each k-clique) to the densest.cpp 
+
+
+
+— 
 HI_PR is an efficient implementation of the push-relabel method.
 See 
   Goldberg and Tarjan, "A New Approach to the Maximum Flow Problem,"
